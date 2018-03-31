@@ -1,0 +1,4 @@
+"Status","Name","Duration in ms","Description"
+"failed","test_haha.Test_Login.test_login2","73",""
+"passed","test_haha.Test_Login.test_login","0",""
+"passed","test_haha.Test_Login.test_login3","0",""

@@ -1,0 +1,60 @@
+{
+  "uid" : "c52d905f93f214b4",
+  "name" : "Test_Login.test_login",
+  "fullName" : "test_haha.Test_Login.test_login",
+  "historyId" : "ed1e1fd8509f78a8411875cb7a836d27",
+  "time" : {
+    "start" : 1522378648893,
+    "stop" : 1522378648893,
+    "duration" : 0
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "host",
+    "value" : "SHQK0FTLCAOKIJO"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "thread",
+    "value" : "3024-MainThread"
+  }, {
+    "name" : "suite",
+    "value" : "test_haha"
+  }, {
+    "name" : "testClass",
+    "value" : "test_haha"
+  }, {
+    "name" : "testMethod",
+    "value" : "Test_Login.test_login"
+  }, {
+    "name" : "package",
+    "value" : "test_haha"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c52d905f93f214b4.json",
+  "parameterValues" : [ ]
+}

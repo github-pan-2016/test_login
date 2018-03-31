@@ -1,0 +1,52 @@
+<ns0:test-suite xmlns:ns0="urn:model.allure.qatools.yandex.ru" start="1522378648893" stop="1522378648966">
+  <name>test_haha</name>
+  <labels/>
+  <test-cases>
+    <test-case start="1522378648893" status="passed" stop="1522378648893">
+      <name>Test_Login.test_login</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="3024-MainThread"/>
+        <label name="host" value="SHQK0FTLCAOKIJO"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1522378648893" status="failed" stop="1522378648966">
+      <name>Test_Login.test_login2</name>
+      <failure>
+        <message>AssertionError: assert 0</message>
+        <stack-trace>self = &lt;test_haha.Test_Login object at 0x0000000004042780&gt;
+
+    def test_login2(self):
+&gt;       assert 0
+E       assert 0
+
+scripts\test_haha.py:7: AssertionError</stack-trace>
+      </failure>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="3024-MainThread"/>
+        <label name="host" value="SHQK0FTLCAOKIJO"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1522378648966" status="passed" stop="1522378648966">
+      <name>Test_Login.test_login3</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="3024-MainThread"/>
+        <label name="host" value="SHQK0FTLCAOKIJO"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+  </test-cases>
+</ns0:test-suite>

@@ -1,0 +1,66 @@
+{
+  "uid" : "baf6e3fb4dd3ecfd",
+  "name" : "Test_Login.test_login2",
+  "fullName" : "test_haha.Test_Login.test_login2",
+  "historyId" : "12ec2e1754be1423ca00ff5a78cea96b",
+  "time" : {
+    "start" : 1522378648893,
+    "stop" : 1522378648966,
+    "duration" : 73
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "failed",
+  "statusMessage" : "AssertionError: assert 0",
+  "statusTrace" : "self = <test_haha.Test_Login object at 0x0000000004042780>\n\n    def test_login2(self):\n>       assert 0\nE       assert 0\n\nscripts\\test_haha.py:7: AssertionError",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "host",
+    "value" : "SHQK0FTLCAOKIJO"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "thread",
+    "value" : "3024-MainThread"
+  }, {
+    "name" : "suite",
+    "value" : "test_haha"
+  }, {
+    "name" : "testClass",
+    "value" : "test_haha"
+  }, {
+    "name" : "testMethod",
+    "value" : "Test_Login.test_login2"
+  }, {
+    "name" : "package",
+    "value" : "test_haha"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "baf6e3fb4dd3ecfd.json",
+  "parameterValues" : [ ]
+}
